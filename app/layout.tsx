@@ -13,7 +13,7 @@ const archivo = Archivo({
 export const metadata: Metadata = {
   title: 'IbrirMed Promotion — Promoteur & constructeur immobilier à Oran',
   description:
-    'IbrirMed Promotion (SARL Ibrir Med), promoteur et constructeur immobilier à Oran. Appartements, duplex et locaux : Résidence Les Jardins d'Acil, Résidence Ibrir à Bir El Djir, Les Terrasses d’Aïn El Turk.',
+    'IbrirMed Promotion (SARL Ibrir Med), promoteur et constructeur immobilier à Oran. Appartements, duplex et locaux : Résidence Les Jardins d’Acil, Résidence Ibrir à Bir El Djir, Les Terrasses d’Aïn El Turk.',
   generator: 'v0.app',
   icons: {
     icon: '/images/logo-ibrir.jpg',

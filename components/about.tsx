@@ -22,7 +22,7 @@ export function About() {
               et de construction immobilière basée à Aïn El Turck, Oran.
             </p>
             <p>
-              De la Résidence Les Jardins d'Acil à Gambetta à nos nouveaux programmes, nous
+              De la Résidence Les Jardins d’Acil à Gambetta à nos nouveaux programmes, nous
               concevons des logements et des locaux pensés pour les familles et les professionnels
               de l’Oranie, avec une exigence constante de qualité et de transparence.
             </p>

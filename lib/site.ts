@@ -68,7 +68,7 @@ export const projects: Project[] = [
     description:
       'Une résidence haut de gamme située au cœur de Gambetta, proches de toutes les commodités.',
     longDescription:
-      'La Résidence Les Jardins d'Acil réunit des appartements luxueux avec parkings en sous-sol, ascenseurs et finitions premium. Larges baies vitrées, balcons, ascenseurs et parking en sous-sol : un cadre de vie moderne et sécurisé, à quelques minutes du centre d’Oran.',
+      'La Résidence Les Jardins d’Acil réunit des appartements luxueux avec parkings en sous-sol, ascenseurs et finitions premium. Larges baies vitrées, balcons, ascenseurs et parking en sous-sol : un cadre de vie moderne et sécurisé, à quelques minutes du centre d’Oran.',
     highlights: ['Du F2 au duplex', '75 à 160 m²', 'Résidence fermée & jardin'],
     features: [
       'Résidence clôturée et gardiennée',
